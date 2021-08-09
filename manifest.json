@@ -1,0 +1,27 @@
+{
+	"mver": "1.2.0",
+	"control": {
+		"identity": {
+			"name": "miomiomio",
+			"version": "1.1",
+			"displayname": "miomiomio",
+			"icon": "./assets/siemens.ico",
+			"type": "guid://63013D0A-BE1B-4C88-B504-0800DE7BC2C4",
+			"start": "./control/index.html"
+		},
+		"metadata": {
+			"author": "Me",
+			"keywords": [
+				"Template"
+			]
+		},
+		"contracts": {
+			"api": {
+				"methods": {},
+				"events": {},
+				"properties": {}
+			}
+		},
+		"types": {}
+	}
+}

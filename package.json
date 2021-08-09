@@ -1,0 +1,17 @@
+{
+	"name": "mycontrol",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "node build.js",
+		"guid": "node guid.js",
+		"postinstall": "node init.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"archiver": "^5.3.0"
+	},
+	"projectPathTIA": "C:\\Users\\matti\\Documents\\Automation\\Progetto1"
+}
